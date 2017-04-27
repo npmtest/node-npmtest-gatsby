@@ -35,10 +35,9 @@
 ```json
 
 {
-    "name": "gatsby",
-    "description": "React.js Static Site Generator",
-    "version": "0.12.46",
-    "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+    "author": {
+        "name": "Kyle Mathews"
+    },
     "ava": {
         "require": [
             "babel-register"
@@ -130,6 +129,7 @@
         "webpack-require": "0.0.16",
         "yaml-loader": "^0.4.0"
     },
+    "description": "React.js Static Site Generator",
     "devDependencies": {
         "ava": "0.16",
         "ava-http": "^0.2.1",
@@ -158,9 +158,15 @@
         "nyc": "^10.1.2",
         "prettier": "^1.1.0"
     },
+    "directories": {},
+    "dist": {
+        "shasum": "5d2cdd46bcc294a8c457e450317cfa9ef943b5b4",
+        "tarball": "https://registry.npmjs.org/gatsby/-/gatsby-0.12.46.tgz"
+    },
     "engines": {
         "node": ">0.12.0"
     },
+    "gitHead": "27b429bdf6fe01d3fcc38b4f724490ee6ee187be",
     "homepage": "https://github.com/gatsbyjs/gatsby#readme",
     "keywords": [
         "blog",
@@ -173,6 +179,13 @@
     ],
     "license": "MIT",
     "main": "index.js",
+    "maintainers": [
+        {
+            "name": "kylemathews"
+        }
+    ],
+    "name": "gatsby",
+    "optionalDependencies": {},
     "repository": {
         "type": "git",
         "url": "git+https://github.com/gatsbyjs/gatsby.git"
@@ -185,11 +198,12 @@
         "lint:flow": "babel-node scripts/flow-check.js",
         "publish-patch": "npm run build && npm version patch && npm publish; git push; git push --tags",
         "test": "npm run lint && npm run test-node && npm run test-integration",
-        "test-coverage": "node_modules/.bin/nyc --reporter=lcov --reporter=text npm test",
-        "test-integration": "node_modules/.bin/ava test/integration",
-        "test-node": "node_modules/.bin/ava test/utils",
+        "test-coverage": "nyc --reporter=lcov --reporter=text npm test",
+        "test-integration": "ava test/integration",
+        "test-node": "ava test/utils",
         "watch": "babel -w lib --out-dir dist/"
-    }
+    },
+    "version": "0.12.46"
 }
 ```
 
