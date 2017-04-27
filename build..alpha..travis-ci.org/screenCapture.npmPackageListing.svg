@@ -1,107 +1,107 @@
 <svg height="1662" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="1662" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-23 14:24:38 +0000   468822 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-23 14:24:38 +0000     1296 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-23 14:24:38 +0000     1076 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-23 14:24:38 +0000    39708 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-23 14:24:38 +0000     1599 bytes  bin/gatsby.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-23 14:24:38 +0000     2916 bytes  dist/bin/cli.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-23 14:24:38 +0000       38 bytes  dist/bin/published.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-23 14:24:38 +0000     6770 bytes  dist/isomorphic/create-routes.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-23 14:24:38 +0000       13 bytes  dist/isomorphic/gatsby-browser.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-23 14:24:38 +0000     1584 bytes  dist/isomorphic/gatsby-helpers.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-23 14:24:38 +0000       13 bytes  dist/isomorphic/gatsby-ssr.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-23 14:24:38 +0000     1648 bytes  dist/isomorphic/html.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-23 14:24:38 +0000      873 bytes  dist/isomorphic/pages/_template.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-23 14:24:38 +0000      927 bytes  dist/isomorphic/wrappers/html.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-23 14:24:38 +0000      948 bytes  dist/isomorphic/wrappers/md.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-23 14:24:38 +0000      988 bytes  dist/loaders/config-loader/index.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-23 14:24:38 +0000      592 bytes  dist/loaders/html-loader/index.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-23 14:24:38 +0000     1976 bytes  dist/loaders/markdown-loader/index.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-23 14:24:38 +0000     5155 bytes  dist/utils/babel-config.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-23 14:24:38 +0000      816 bytes  dist/utils/build-css.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-23 14:24:38 +0000     1470 bytes  dist/utils/build-html.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-23 14:24:38 +0000      559 bytes  dist/utils/build-javascript.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-23 14:24:38 +0000      953 bytes  dist/utils/build-page/index.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-23 14:24:38 +0000     4541 bytes  dist/utils/build-page/load-frontmatter.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-23 14:24:38 +0000     1449 bytes  dist/utils/build-page/path-resolver.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-23 14:24:38 +0000     2846 bytes  dist/utils/build-page/url-resolver.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-23 14:24:38 +0000     3393 bytes  dist/utils/build.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-23 14:24:38 +0000     7498 bytes  dist/utils/develop.js</tspan>
-<tspan x="10" y="474"> 28.  2017-04-23 14:24:38 +0000     1846 bytes  dist/utils/getProcessForPort.js</tspan>
-<tspan x="10" y="490"> 29.  2017-04-23 14:24:38 +0000     1353 bytes  dist/utils/glob-pages.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-23 14:24:38 +0000     4814 bytes  dist/utils/init-starter.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-23 14:24:38 +0000      651 bytes  dist/utils/load-context.js</tspan>
-<tspan x="10" y="538"> 32.  2017-04-23 14:24:38 +0000      433 bytes  dist/utils/new.js</tspan>
-<tspan x="10" y="554"> 33.  2017-04-23 14:24:38 +0000      290 bytes  dist/utils/page-file-types.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-23 14:24:38 +0000     3176 bytes  dist/utils/post-build.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-23 14:24:38 +0000     1766 bytes  dist/utils/serve-build.js</tspan>
-<tspan x="10" y="602"> 36.  2017-04-23 14:24:38 +0000     1632 bytes  dist/utils/startWithDynamicPort.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-23 14:24:38 +0000     2245 bytes  dist/utils/static-entry.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-23 14:24:38 +0000     3038 bytes  dist/utils/web-entry.js</tspan>
-<tspan x="10" y="650"> 39.  2017-04-23 14:24:38 +0000    16800 bytes  dist/utils/webpack.config.js</tspan>
-<tspan x="10" y="666"> 40.  2017-04-23 14:24:38 +0000     3497 bytes  docs/about.md</tspan>
-<tspan x="10" y="682"> 41.  2017-04-23 14:24:38 +0000     4806 bytes  docs/examples.md</tspan>
-<tspan x="10" y="698"> 42.  2017-04-23 14:24:38 +0000     4930 bytes  docs/faq.md</tspan>
-<tspan x="10" y="714"> 43.  2017-04-23 14:24:38 +0000     2357 bytes  docs/getting-started.md</tspan>
-<tspan x="10" y="730"> 44.  2017-04-23 14:24:38 +0000     3831 bytes  docs/how-gatsby-works.md</tspan>
-<tspan x="10" y="746"> 45.  2017-04-23 14:24:38 +0000      337 bytes  docs/index.md</tspan>
-<tspan x="10" y="762"> 46.  2017-04-23 14:24:38 +0000     1699 bytes  docs/structure-of-a-gatsby-site.md</tspan>
-<tspan x="10" y="778"> 47.  2017-04-23 14:24:38 +0000     1541 bytes  docs/tutorial.md</tspan>
-<tspan x="10" y="794"> 48.  2017-04-23 14:24:38 +0000     2406 bytes  docs/webpack-loaders.md</tspan>
-<tspan x="10" y="810"> 49.  2017-04-23 14:24:38 +0000     1495 bytes  docs/webpack-plugins.md</tspan>
-<tspan x="10" y="826"> 50.  2017-04-23 14:24:38 +0000      110 bytes  interfaces/front-matter.js</tspan>
-<tspan x="10" y="842"> 51.  2017-04-23 14:24:38 +0000       84 bytes  interfaces/html-frontmatter.js</tspan>
-<tspan x="10" y="858"> 52.  2017-04-23 14:24:38 +0000       98 bytes  interfaces/invariant.js</tspan>
-<tspan x="10" y="874"> 53.  2017-04-23 14:24:38 +0000      110 bytes  interfaces/object-assign.js</tspan>
-<tspan x="10" y="890"> 54.  2017-04-23 14:24:38 +0000      420 bytes  interfaces/parse-filepath.js</tspan>
-<tspan x="10" y="906"> 55.  2017-04-23 14:24:38 +0000       77 bytes  interfaces/slash.js</tspan>
-<tspan x="10" y="922"> 56.  2017-04-23 14:24:38 +0000     4843 bytes  package.json</tspan>
-<tspan x="10" y="938"> 57.  2017-04-23 14:24:38 +0000      218 bytes  scripts/flow-check.js</tspan>
-<tspan x="10" y="954"> 58.  2017-04-23 14:24:38 +0000       23 bytes  scripts/prepublish.sh</tspan>
-<tspan x="10" y="970"> 59.  2017-04-23 14:24:38 +0000      226 bytes  test/fixtures/javascript-pages-frontmatter/pages\</tspan>
+<tspan x="10" y="26">  0.  2017-04-27 19:59:42 +0000   470352 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-27 19:59:42 +0000     1296 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-27 19:59:42 +0000     1076 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-27 19:59:42 +0000    39708 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-27 19:59:42 +0000     1599 bytes  bin/gatsby.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-27 19:59:42 +0000     2916 bytes  dist/bin/cli.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-27 19:59:42 +0000       38 bytes  dist/bin/published.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-27 19:59:42 +0000     6770 bytes  dist/isomorphic/create-routes.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-27 19:59:42 +0000       13 bytes  dist/isomorphic/gatsby-browser.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-27 19:59:42 +0000     1584 bytes  dist/isomorphic/gatsby-helpers.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-27 19:59:42 +0000       13 bytes  dist/isomorphic/gatsby-ssr.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-27 19:59:42 +0000     1648 bytes  dist/isomorphic/html.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-27 19:59:42 +0000      873 bytes  dist/isomorphic/pages/_template.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-27 19:59:42 +0000      927 bytes  dist/isomorphic/wrappers/html.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-27 19:59:42 +0000      948 bytes  dist/isomorphic/wrappers/md.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-27 19:59:42 +0000      988 bytes  dist/loaders/config-loader/index.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-27 19:59:42 +0000      592 bytes  dist/loaders/html-loader/index.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-27 19:59:42 +0000     1976 bytes  dist/loaders/markdown-loader/index.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-27 19:59:42 +0000     5155 bytes  dist/utils/babel-config.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-27 19:59:42 +0000      816 bytes  dist/utils/build-css.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-27 19:59:42 +0000     1470 bytes  dist/utils/build-html.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-27 19:59:42 +0000      559 bytes  dist/utils/build-javascript.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-27 19:59:42 +0000      953 bytes  dist/utils/build-page/index.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-27 19:59:42 +0000     4541 bytes  dist/utils/build-page/load-frontmatter.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-27 19:59:42 +0000     1449 bytes  dist/utils/build-page/path-resolver.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-27 19:59:42 +0000     2846 bytes  dist/utils/build-page/url-resolver.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-27 19:59:42 +0000     3393 bytes  dist/utils/build.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-27 19:59:42 +0000     7498 bytes  dist/utils/develop.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-27 19:59:42 +0000     1846 bytes  dist/utils/getProcessForPort.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-27 19:59:42 +0000     1353 bytes  dist/utils/glob-pages.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-27 19:59:42 +0000     4814 bytes  dist/utils/init-starter.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-27 19:59:42 +0000      651 bytes  dist/utils/load-context.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-27 19:59:42 +0000      433 bytes  dist/utils/new.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-27 19:59:42 +0000      290 bytes  dist/utils/page-file-types.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-27 19:59:42 +0000     3176 bytes  dist/utils/post-build.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-27 19:59:42 +0000     1766 bytes  dist/utils/serve-build.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-27 19:59:42 +0000     1632 bytes  dist/utils/startWithDynamicPort.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-27 19:59:42 +0000     2245 bytes  dist/utils/static-entry.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-27 19:59:42 +0000     3038 bytes  dist/utils/web-entry.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-27 19:59:42 +0000    16800 bytes  dist/utils/webpack.config.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-27 19:59:42 +0000     3497 bytes  docs/about.md</tspan>
+<tspan x="10" y="682"> 41.  2017-04-27 19:59:42 +0000     4806 bytes  docs/examples.md</tspan>
+<tspan x="10" y="698"> 42.  2017-04-27 19:59:42 +0000     4930 bytes  docs/faq.md</tspan>
+<tspan x="10" y="714"> 43.  2017-04-27 19:59:42 +0000     2357 bytes  docs/getting-started.md</tspan>
+<tspan x="10" y="730"> 44.  2017-04-27 19:59:42 +0000     3831 bytes  docs/how-gatsby-works.md</tspan>
+<tspan x="10" y="746"> 45.  2017-04-27 19:59:42 +0000      337 bytes  docs/index.md</tspan>
+<tspan x="10" y="762"> 46.  2017-04-27 19:59:42 +0000     1699 bytes  docs/structure-of-a-gatsby-site.md</tspan>
+<tspan x="10" y="778"> 47.  2017-04-27 19:59:42 +0000     1541 bytes  docs/tutorial.md</tspan>
+<tspan x="10" y="794"> 48.  2017-04-27 19:59:42 +0000     2406 bytes  docs/webpack-loaders.md</tspan>
+<tspan x="10" y="810"> 49.  2017-04-27 19:59:42 +0000     1495 bytes  docs/webpack-plugins.md</tspan>
+<tspan x="10" y="826"> 50.  2017-04-27 19:59:42 +0000      110 bytes  interfaces/front-matter.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-27 19:59:42 +0000       84 bytes  interfaces/html-frontmatter.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-27 19:59:42 +0000       98 bytes  interfaces/invariant.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-27 19:59:42 +0000      110 bytes  interfaces/object-assign.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-27 19:59:42 +0000      420 bytes  interfaces/parse-filepath.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-27 19:59:42 +0000       77 bytes  interfaces/slash.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-27 19:59:42 +0000     6373 bytes  package.json</tspan>
+<tspan x="10" y="938"> 57.  2017-04-27 19:59:42 +0000      218 bytes  scripts/flow-check.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-27 19:59:42 +0000       23 bytes  scripts/prepublish.sh</tspan>
+<tspan x="10" y="970"> 59.  2017-04-27 19:59:42 +0000      226 bytes  test/fixtures/javascript-pages-frontmatter/pages\</tspan>
 <tspan x="10" y="986">/array-literal-named-export.js</tspan>
-<tspan x="10" y="1002"> 60.  2017-04-23 14:24:38 +0000      221 bytes  test/fixtures/javascript-pages-frontmatter/pages\</tspan>
+<tspan x="10" y="1002"> 60.  2017-04-27 19:59:42 +0000      221 bytes  test/fixtures/javascript-pages-frontmatter/pages\</tspan>
 <tspan x="10" y="1018">/array-literal.js</tspan>
-<tspan x="10" y="1034"> 61.  2017-04-23 14:24:38 +0000      250 bytes  test/fixtures/javascript-pages-frontmatter/pages\</tspan>
+<tspan x="10" y="1034"> 61.  2017-04-27 19:59:42 +0000      250 bytes  test/fixtures/javascript-pages-frontmatter/pages\</tspan>
 <tspan x="10" y="1050">/object-literal-named-export.js</tspan>
-<tspan x="10" y="1066"> 62.  2017-04-23 14:24:38 +0000      245 bytes  test/fixtures/javascript-pages-frontmatter/pages\</tspan>
+<tspan x="10" y="1066"> 62.  2017-04-27 19:59:42 +0000      245 bytes  test/fixtures/javascript-pages-frontmatter/pages\</tspan>
 <tspan x="10" y="1082">/object-literal.js</tspan>
-<tspan x="10" y="1098"> 63.  2017-04-23 14:24:38 +0000      142 bytes  test/fixtures/javascript-pages-frontmatter/pages\</tspan>
+<tspan x="10" y="1098"> 63.  2017-04-27 19:59:42 +0000      142 bytes  test/fixtures/javascript-pages-frontmatter/pages\</tspan>
 <tspan x="10" y="1114">/string-literal-named-export.js</tspan>
-<tspan x="10" y="1130"> 64.  2017-04-23 14:24:38 +0000      137 bytes  test/fixtures/javascript-pages-frontmatter/pages\</tspan>
+<tspan x="10" y="1130"> 64.  2017-04-27 19:59:42 +0000      137 bytes  test/fixtures/javascript-pages-frontmatter/pages\</tspan>
 <tspan x="10" y="1146">/string-literal.js</tspan>
-<tspan x="10" y="1162"> 65.  2017-04-23 14:24:38 +0000      172 bytes  test/fixtures/javascript-pages-frontmatter/pages\</tspan>
+<tspan x="10" y="1162"> 65.  2017-04-27 19:59:42 +0000      172 bytes  test/fixtures/javascript-pages-frontmatter/pages\</tspan>
 <tspan x="10" y="1178">/template-literal-named-export.js</tspan>
-<tspan x="10" y="1194"> 66.  2017-04-23 14:24:38 +0000      167 bytes  test/fixtures/javascript-pages-frontmatter/pages\</tspan>
+<tspan x="10" y="1194"> 66.  2017-04-27 19:59:42 +0000      167 bytes  test/fixtures/javascript-pages-frontmatter/pages\</tspan>
 <tspan x="10" y="1210">/template-literal.js</tspan>
-<tspan x="10" y="1226"> 67.  2017-04-23 14:24:38 +0000        0 bytes  test/fixtures/path-not-ending-in-slash/config.to\</tspan>
+<tspan x="10" y="1226"> 67.  2017-04-27 19:59:42 +0000        0 bytes  test/fixtures/path-not-ending-in-slash/config.to\</tspan>
 <tspan x="10" y="1242">ml</tspan>
-<tspan x="10" y="1258"> 68.  2017-04-23 14:24:38 +0000      285 bytes  test/fixtures/path-not-ending-in-slash/pages/hel\</tspan>
+<tspan x="10" y="1258"> 68.  2017-04-27 19:59:42 +0000      285 bytes  test/fixtures/path-not-ending-in-slash/pages/hel\</tspan>
 <tspan x="10" y="1274">lo-world-2016/image.jpg</tspan>
-<tspan x="10" y="1290"> 69.  2017-04-23 14:24:38 +0000      107 bytes  test/fixtures/path-not-ending-in-slash/pages/hel\</tspan>
+<tspan x="10" y="1290"> 69.  2017-04-27 19:59:42 +0000      107 bytes  test/fixtures/path-not-ending-in-slash/pages/hel\</tspan>
 <tspan x="10" y="1306">lo-world-2016/index.md</tspan>
-<tspan x="10" y="1322"> 70.  2017-04-23 14:24:38 +0000        0 bytes  test/fixtures/path-rewrite/config.toml</tspan>
-<tspan x="10" y="1338"> 71.  2017-04-23 14:24:38 +0000      155 bytes  test/fixtures/path-rewrite/gatsby-node.js</tspan>
-<tspan x="10" y="1354"> 72.  2017-04-23 14:24:38 +0000       33 bytes  test/fixtures/path-rewrite/pages/dont-move-me.md</tspan>
-<tspan x="10" y="1370"> 73.  2017-04-23 14:24:38 +0000       29 bytes  test/fixtures/path-rewrite/pages/move-me.md</tspan>
-<tspan x="10" y="1386"> 74.  2017-04-23 14:24:38 +0000       67 bytes  test/fixtures/site-with-babelpackage/package.jso\</tspan>
+<tspan x="10" y="1322"> 70.  2017-04-27 19:59:42 +0000        0 bytes  test/fixtures/path-rewrite/config.toml</tspan>
+<tspan x="10" y="1338"> 71.  2017-04-27 19:59:42 +0000      155 bytes  test/fixtures/path-rewrite/gatsby-node.js</tspan>
+<tspan x="10" y="1354"> 72.  2017-04-27 19:59:42 +0000       33 bytes  test/fixtures/path-rewrite/pages/dont-move-me.md</tspan>
+<tspan x="10" y="1370"> 73.  2017-04-27 19:59:42 +0000       29 bytes  test/fixtures/path-rewrite/pages/move-me.md</tspan>
+<tspan x="10" y="1386"> 74.  2017-04-27 19:59:42 +0000       67 bytes  test/fixtures/site-with-babelpackage/package.jso\</tspan>
 <tspan x="10" y="1402">n</tspan>
-<tspan x="10" y="1418"> 75.  2017-04-23 14:24:38 +0000        0 bytes  test/fixtures/static-wrappers/config.toml</tspan>
-<tspan x="10" y="1434"> 76.  2017-04-23 14:24:38 +0000       69 bytes  test/fixtures/static-wrappers/pages/html.html</tspan>
-<tspan x="10" y="1450"> 77.  2017-04-23 14:24:38 +0000       53 bytes  test/fixtures/static-wrappers/pages/md.md</tspan>
-<tspan x="10" y="1466"> 78.  2017-04-23 14:24:38 +0000     1152 bytes  test/integration/cli-returns-help.js</tspan>
-<tspan x="10" y="1482"> 79.  2017-04-23 14:24:38 +0000      544 bytes  test/integration/install-starter.js</tspan>
-<tspan x="10" y="1498"> 80.  2017-04-23 14:24:38 +0000      911 bytes  test/integration/static-html-wrappers.js</tspan>
-<tspan x="10" y="1514"> 81.  2017-04-23 14:24:38 +0000      910 bytes  test/integration/user-rewrites-path-not-ending-i\</tspan>
+<tspan x="10" y="1418"> 75.  2017-04-27 19:59:42 +0000        0 bytes  test/fixtures/static-wrappers/config.toml</tspan>
+<tspan x="10" y="1434"> 76.  2017-04-27 19:59:42 +0000       69 bytes  test/fixtures/static-wrappers/pages/html.html</tspan>
+<tspan x="10" y="1450"> 77.  2017-04-27 19:59:42 +0000       53 bytes  test/fixtures/static-wrappers/pages/md.md</tspan>
+<tspan x="10" y="1466"> 78.  2017-04-27 19:59:42 +0000     1152 bytes  test/integration/cli-returns-help.js</tspan>
+<tspan x="10" y="1482"> 79.  2017-04-27 19:59:42 +0000      544 bytes  test/integration/install-starter.js</tspan>
+<tspan x="10" y="1498"> 80.  2017-04-27 19:59:42 +0000      911 bytes  test/integration/static-html-wrappers.js</tspan>
+<tspan x="10" y="1514"> 81.  2017-04-27 19:59:42 +0000      910 bytes  test/integration/user-rewrites-path-not-ending-i\</tspan>
 <tspan x="10" y="1530">n-slash.js</tspan>
-<tspan x="10" y="1546"> 82.  2017-04-23 14:24:38 +0000      845 bytes  test/integration/user-rewrites-path.js</tspan>
-<tspan x="10" y="1562"> 83.  2017-04-23 14:24:38 +0000     1469 bytes  test/support.js</tspan>
-<tspan x="10" y="1578"> 84.  2017-04-23 14:24:38 +0000     2217 bytes  test/utils/babel-config.js</tspan>
-<tspan x="10" y="1594"> 85.  2017-04-23 14:24:38 +0000     2186 bytes  test/utils/build-page/load-frontmatter.js</tspan>
-<tspan x="10" y="1610"> 86.  2017-04-23 14:24:38 +0000     1915 bytes  test/utils/build-page/path-resolver.js</tspan>
-<tspan x="10" y="1626"> 87.  2017-04-23 14:24:38 +0000     2640 bytes  test/utils/build-page/url-resolver.js</tspan>
-<tspan x="10" y="1642"> 88.  2017-04-23 14:24:38 +0000   289104 bytes  yarn.lock</tspan>
+<tspan x="10" y="1546"> 82.  2017-04-27 19:59:42 +0000      845 bytes  test/integration/user-rewrites-path.js</tspan>
+<tspan x="10" y="1562"> 83.  2017-04-27 19:59:42 +0000     1469 bytes  test/support.js</tspan>
+<tspan x="10" y="1578"> 84.  2017-04-27 19:59:42 +0000     2217 bytes  test/utils/babel-config.js</tspan>
+<tspan x="10" y="1594"> 85.  2017-04-27 19:59:42 +0000     2186 bytes  test/utils/build-page/load-frontmatter.js</tspan>
+<tspan x="10" y="1610"> 86.  2017-04-27 19:59:42 +0000     1915 bytes  test/utils/build-page/path-resolver.js</tspan>
+<tspan x="10" y="1626"> 87.  2017-04-27 19:59:42 +0000     2640 bytes  test/utils/build-page/url-resolver.js</tspan>
+<tspan x="10" y="1642"> 88.  2017-04-27 19:59:42 +0000   289104 bytes  yarn.lock</tspan>
 </text>
 </svg>
